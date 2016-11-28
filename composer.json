@@ -1,0 +1,15 @@
+{
+    "name": "ilanvac/geo-ip-service",
+    "description": "let you find out ip by location",
+    "authors": [
+        {
+            "name": "BungHolem32",
+            "email": "ilanvac@gmail.com"
+        }
+    ],
+    "require": {
+        "geoip/geoip": "^1.17",
+        "larapack/dd": "^1.0",
+        "geoip2/geoip2": "~2.0"
+    }
+}
